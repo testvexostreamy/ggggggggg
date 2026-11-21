@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env
+.env.*
+tests/
+README.md
+setup.py
+.claude/
+*.md

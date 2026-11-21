@@ -1,0 +1,16 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net --allow-env --allow-read main.ts",
+    "dev": "deno run --watch --allow-net --allow-env --allow-read main.ts",
+    "test": "deno test --allow-net --allow-env",
+    "cache": "deno cache main.ts"
+  },
+  "imports": {
+    "youtubei": "npm:youtubei.js@18.3.0",
+    "@hono/hono": "jsr:@hono/hono@^4"
+  },
+  "fmt": {
+    "lineWidth": 100
+  },
+  "lock": false
+}
