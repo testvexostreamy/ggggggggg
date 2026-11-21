@@ -1,0 +1,40 @@
+{
+  "header": {
+    "type": "PageHeader",
+    "content": {
+      "title": {
+        "text": { "text": "Rick Astley" },
+        "attachment_runs": [{ "element": "verified_badge" }]
+      },
+      "metadata": {
+        "metadata_rows": [
+          { "metadata_parts": [{ "text": { "text": "@RickAstleyYT" } }] },
+          {
+            "metadata_parts": [
+              { "text": { "text": "4.2M subscribers" } },
+              { "text": { "text": "215 videos" } }
+            ]
+          }
+        ]
+      },
+      "image": {
+        "avatar": {
+          "image": [{ "url": "https://yt3.ggpht.com/page-avatar.jpg", "width": 176, "height": 176 }]
+        }
+      },
+      "banner": {
+        "image": [{ "url": "https://yt3.ggpht.com/page-banner.jpg", "width": 2560, "height": 424 }]
+      },
+      "description": { "content": "Official Rick Astley YouTube channel." }
+    }
+  },
+  "metadata": {
+    "external_id": "UCuAXFkgsw1L7xaCfnd5JJOw",
+    "title": "Rick Astley",
+    "description": "Official Rick Astley YouTube channel.",
+    "vanity_channel_url": "https://www.youtube.com/@RickAstleyYT",
+    "country": "United Kingdom",
+    "joined_date": "Jan 25, 2015",
+    "external_links": ["https://rickastley.co.uk"]
+  }
+}

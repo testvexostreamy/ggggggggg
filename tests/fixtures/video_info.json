@@ -1,0 +1,121 @@
+{
+  "basic_info": {
+    "id": "dQw4w9WgXcQ",
+    "title": "Rick Astley - Never Gonna Give You Up (Official Video)",
+    "short_description": "The official video for Never Gonna Give You Up.",
+    "duration": 213,
+    "view_count": 1839539767,
+    "like_count": 18000000,
+    "comment_count": 2400000,
+    "category": "Music",
+    "tags": ["rick astley", "pop"],
+    "keywords": ["rick", "astley"],
+    "is_live": false,
+    "is_private": false,
+    "is_unlisted": false,
+    "is_family_safe": true,
+    "upload_date": "2009-10-24T23:57:33-07:00",
+    "publish_date": "2009-10-24T23:57:33-07:00",
+    "channel_id": "UCuAXFkgsw1L7xaCfnd5JJOw",
+    "author": "Rick Astley",
+    "thumbnail": [
+      { "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg", "width": 480, "height": 360 },
+      { "url": "https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg", "width": 1280, "height": 720 }
+    ]
+  },
+  "secondary_info": {
+    "description": { "text": "The official video for Never Gonna Give You Up." },
+    "owner": {
+      "subscriber_count": { "text": "4.2M subscribers" },
+      "author": {
+        "id": "UCuAXFkgsw1L7xaCfnd5JJOw",
+        "name": "Rick Astley",
+        "url": "https://www.youtube.com/@RickAstleyYT",
+        "is_verified": true,
+        "thumbnails": [{ "url": "https://yt3.ggpht.com/avatar.jpg", "width": 88, "height": 88 }]
+      }
+    }
+  },
+  "streaming_data": {
+    "formats": [
+      {
+        "itag": 18,
+        "mime_type": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "quality_label": "360p",
+        "width": 640,
+        "height": 360,
+        "fps": 25,
+        "bitrate": 520000,
+        "average_bitrate": 510000,
+        "audio_quality": "AUDIO_QUALITY_LOW",
+        "audio_channels": 2,
+        "audio_sample_rate": 44100,
+        "content_length": 14000000,
+        "url": "https://rr1.googlevideo.com/videoplayback?itag=18",
+        "has_video": true,
+        "has_audio": true
+      }
+    ],
+    "adaptive_formats": [
+      {
+        "itag": 251,
+        "mime_type": "audio/webm; codecs=\"opus\"",
+        "bitrate": 135000,
+        "average_bitrate": 130000,
+        "audio_quality": "AUDIO_QUALITY_MEDIUM",
+        "audio_channels": 2,
+        "audio_sample_rate": 48000,
+        "content_length": 3500000,
+        "url": "https://rr1.googlevideo.com/videoplayback?itag=251",
+        "has_video": false,
+        "has_audio": true
+      },
+      {
+        "itag": 137,
+        "mime_type": "video/mp4; codecs=\"avc1.640028\"",
+        "quality_label": "1080p",
+        "width": 1920,
+        "height": 1080,
+        "fps": 25,
+        "bitrate": 2400000,
+        "average_bitrate": 2100000,
+        "content_length": 55000000,
+        "url": "https://rr1.googlevideo.com/videoplayback?itag=137",
+        "has_video": true,
+        "has_audio": false
+      }
+    ]
+  },
+  "page": [
+    {
+      "captions": {
+        "caption_tracks": [
+          {
+            "base_url": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&lang=en",
+            "language_code": "en",
+            "name": { "text": "English" },
+            "kind": "",
+            "vss_id": ".en"
+          },
+          {
+            "base_url": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&lang=en&kind=asr",
+            "language_code": "en",
+            "name": { "text": "English (auto-generated)" },
+            "kind": "asr",
+            "vss_id": "a.en"
+          }
+        ]
+      }
+    }
+  ],
+  "watch_next_feed": [
+    {
+      "id": "yPYZpwSpKmA",
+      "title": { "text": "Rick Astley - Together Forever" },
+      "author": { "name": "Rick Astley" },
+      "duration": { "seconds": 204, "text": "3:24" },
+      "view_count": { "text": "120M views" },
+      "thumbnails": [{ "url": "https://i.ytimg.com/vi/yPYZpwSpKmA/hqdefault.jpg", "width": 480, "height": 360 }]
+    }
+  ]
+}

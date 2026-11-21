@@ -1,0 +1,18 @@
+{
+  "header": {
+    "type": "C4TabbedHeader",
+    "author": {
+      "id": "UCuAXFkgsw1L7xaCfnd5JJOw",
+      "name": "Rick Astley",
+      "is_verified": true
+    },
+    "subscribers": { "text": "4.2M subscribers" },
+    "videos_count": { "text": "215 videos" },
+    "avatar": [{ "url": "https://yt3.ggpht.com/c4-avatar.jpg", "width": 176, "height": 176 }],
+    "banner": [{ "url": "https://yt3.ggpht.com/c4-banner.jpg", "width": 2560, "height": 424 }]
+  },
+  "metadata": {
+    "external_id": "UCuAXFkgsw1L7xaCfnd5JJOw",
+    "description": "Classic C4 tabbed header channel description."
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "CommentThread",
+    "comment": {
+      "comment_id": "Ugw123456",
+      "content": { "text": "Still an absolute classic!" },
+      "published_time": "2 years ago",
+      "like_count": "12K",
+      "reply_count": 42,
+      "is_pinned": true,
+      "author_is_channel_owner": false,
+      "is_hearted": true,
+      "author": {
+        "id": "UC1234567890123456789012",
+        "name": "@musicfan",
+        "url": "https://www.youtube.com/@musicfan",
+        "thumbnails": [{ "url": "https://yt3.ggpht.com/u1.jpg", "width": 48, "height": 48 }]
+      }
+    }
+  },
+  {
+    "type": "CommentView",
+    "id": "Ugw999999",
+    "content": { "runs": [{ "text": "Never gonna " }, { "text": "let you down" }] },
+    "published": "1 day ago",
+    "vote_count": "5",
+    "author": {
+      "name": "Uploader",
+      "is_owner": true
+    }
+  }
+]
